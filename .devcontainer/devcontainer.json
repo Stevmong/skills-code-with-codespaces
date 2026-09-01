@@ -1,4 +1,4 @@
 {
   "name": "Codespaces Example",
-  "image": "mcr.microsoft.com/devcontainers/base:alpine"
+  "image": "mcr.microsoft.com/devcontainers/base:debian"
 }
